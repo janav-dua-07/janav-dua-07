@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janav-dua-07&show_icons=true&locale=en&layout=compact" alt="janav-dua-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janav-dua-07&show_icons=true&locale=en" alt="janav-dua-07" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=janav-dua-07&show_icons=true&locale=en" alt="janav-dua-07" /></p>
